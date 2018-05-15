@@ -45,6 +45,25 @@ If/when doing subsequent passes or logic, focus mainly on getting uncategorized 
 
 What we don't want to ever do is move something initially categorized as 'creator' down to 'contributor', or something categorized as 'contributor' down to 'other'
 
+### local overrides
+Locally, we know we want to treat some relators differently than they are defined in the source vocabulary. The known examples are: 
+
+| vocab category | relator | local category |
+| -------------- | ------- | -------------- |
+| contributor | editor | creator |
+| contributor | dissertant | creator |
+| contributor | originator | creator |
+| contributor | author of dialog | creator |
+| contributor | editor of compilation | creator |
+| other | director | creator |
+| other | film director | creator |
+| other | radio director | creator |
+| other | television director | creator |
+| contributor | manufacturer | manufacturer |
+| other | issuing body | publisher |
+| uncategorized | provider | publisher |
+
+
 # Not here
 ## RDA element code
 

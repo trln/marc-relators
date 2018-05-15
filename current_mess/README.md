@@ -40,6 +40,8 @@ The relator categories in which we are interested are listed below. All except '
 - owner
 - distributor
 - uncategorized
+- editor (local category)
+- director (local category)
 
 If/when doing subsequent passes or logic, focus mainly on getting uncategorized into a category.
 
@@ -50,18 +52,19 @@ Locally, we know we want to treat some relators differently than they are define
 
 | vocab category | relator | local category |
 | -------------- | ------- | -------------- |
-| contributor | editor | creator |
+| contributor | editor | editor |
 | contributor | dissertant | creator |
 | contributor | originator | creator |
 | contributor | author of dialog | creator |
-| contributor | editor of compilation | creator |
-| other | director | creator |
-| other | film director | creator |
-| other | radio director | creator |
-| other | television director | creator |
+| contributor | editor of compilation | editor |
+| other | director | director |
+| other | film director w| director |
+| other | radio director | director |
+| other | television director | director |
 | contributor | manufacturer | manufacturer |
 | other | issuing body | publisher |
 | uncategorized | provider | publisher |
+| creator | filmmaker | director |
 
 
 # Not here

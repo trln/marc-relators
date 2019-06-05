@@ -1,0 +1,7 @@
+contributor: http://id.loc.gov/vocabulary/relators/collection_RDAContributor
+other: http://id.loc.gov/vocabulary/relators/collection_RDAOther
+creator: http://id.loc.gov/vocabulary/relators/collection_RDACreator
+manufacturer: http://id.loc.gov/vocabulary/relators/collection_RDAManufacturer
+publisher: http://id.loc.gov/vocabulary/relators/collection_RDAPublisher
+owner: http://id.loc.gov/vocabulary/relators/collection_RDAOwner
+distributor: http://id.loc.gov/vocabulary/relators/collection_RDADistributor

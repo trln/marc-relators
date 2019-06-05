@@ -1,0 +1,269 @@
+---
+fnd: Funder
+brl: Braille embosser
+prt: Printer
+fmo: Former owner
+lil: Libelant
+bpd: Bookplate designer
+ptf: Plaintiff
+wde: Wood engraver
+dis: Dissertant
+vac: Voice actor
+mus: Musician
+ltg: Lithographer
+rsr: Restorationist
+gis: Geographic information specialist
+dsr: Designer
+spk: Speaker
+cos: Contestant
+rse: Respondent-appellee
+com: Compiler
+cre: Creator
+cor: Collection registrar
+app: Applicant
+cmt: Compositor
+adp: Adapter
+prg: Programmer
+trl: Translator
+orm: Organizer
+mfr: Manufacturer
+tlp: Television producer
+tld: Television director
+prn: Production company
+ldr: Laboratory director
+tyd: Type designer
+mon: Monitor
+flm: Film editor
+mod: Moderator
+lee: Libelee-appellee
+dtm: Data manager
+wat: Writer of added text
+inv: Inventor
+sad: Scientific advisor
+dtc: Data contributor
+apl: Appellant
+spn: Sponsor
+tcd: Technical director
+prc: Process contact
+dub: Dubious author
+tch: Teacher
+own: Owner
+cur: Curator
+cte: Contestee-appellee
+clt: Collotyper
+crr: Corrector
+ape: Appellee
+sec: Secretary
+win: Writer of introduction
+stl: Storyteller
+anl: Analyst
+cmp: Composer
+dpc: Depicted
+dbp: Distribution place
+pmn: Production manager
+bjd: Bookjacket designer
+att: Attributed name
+cli: Client
+hnr: Honoree
+bsl: Bookseller
+cpt: Complainant-appellant
+ann: Annotator
+fmd: Film director
+org: Originator
+lsa: Landscape architect
+dfd: Defendant
+pro: Producer
+lel: Libelee
+rev: Reviewer
+len: Lender
+abr: Abridger
+mdc: Metadata contact
+cll: Calligrapher
+ilu: Illuminator
+pbl: Publisher
+rcd: Recordist
+sll: Seller
+prs: Production designer
+rsp: Respondent
+wst: Writer of supplementary textual content
+pre: Presenter
+led: Lead
+dpt: Depositor
+egr: Engraver
+pfr: Proofreader
+dgg: Degree granting institution
+chr: Choreographer
+prm: Printmaker
+res: Researcher
+rpc: Radio producer
+rbr: Rubricator
+cmm: Commentator
+uvp: University place
+aud: Author of dialog
+fpy: First party
+trc: Transcriber
+ptt: Plaintiff-appellant
+sgd: Stage director
+lbr: Laboratory
+art: Artist
+med: Medium
+cns: Censor
+fld: Field director
+aut: Author
+prp: Production place
+stn: Standards body
+rps: Repository
+wit: Witness
+cot: Contestant-appellant
+exp: Expert
+rtm: Research team member
+fmk: Filmmaker
+lit: Libelant-appellant
+clr: Colorist
+anm: Animator
+mrb: Marbler
+wam: Writer of accompanying material
+act: Actor
+asg: Assignee
+cnd: Conductor
+etr: Etcher
+sng: Singer
+cng: Cinematographer
+wdc: Woodcutter
+edc: editor of compilation
+pma: Permitting agency
+str: Stereotyper
+asn: Associated name
+ctt: Contestee-appellant
+stm: Stage manager
+dfe: Defendant-appellee
+frg: Forger
+sds: Sound designer
+plt: Platemaker
+lso: Licensor
+tyg: Typographer
+bkd: Book designer
+jug: Jurisdiction governed
+cpc: Copyright claimant
+nrt: Narrator
+std: Set designer
+drt: director
+ctr: Contractor
+bnd: Binder
+let: Libelee-appellant
+cpe: Complainant-appellee
+ppm: Papermaker
+crp: Correspondent
+enj: Enacting jurisdiction
+srv: Surveyor
+wal: Writer of added lyrics
+csp: Consultant to a project
+mrk: Markup editor
+fds: Film distributor
+opn: Opponent
+arr: Arranger
+adi: Art director
+prv: Provider
+ppt: Puppeteer
+cpl: Complainant
+pth: Patent holder
+pta: Patent applicant
+blw: Blurb writer
+mcp: Music copyist
+pan: Panelist
+jud: Judge
+sgn: Signer
+ill: Illustrator
+lyr: Lyricist
+acp: Art copyist
+mtk: Minute taker
+rpy: Responsible party
+ccp: Conceptor
+edt: editor
+aui: Author of introduction, etc.
+csl: Consultant
+cts: Contestee
+mte: Metal-engraver
+eng: Engineer
+brd: Broadcaster
+isb: Issuing body
+elg: Electrician
+dte: Dedicatee
+lie: Libelant-appellee
+his: Host institution
+cas: Caster
+bdd: Binding designer
+oth: Other
+lgd: Lighting designer
+pht: Photographer
+auc: Auctioneer
+prf: Performer
+dnr: Donor
+ant: Bibliographic antecedent
+pbd: Publishing director
+rcp: Addressee
+cov: Cover designer
+ren: Renderer
+rsg: Restager
+mfp: Manufacture place
+coe: Contestant-appellee
+fmp: Film producer
+pra: Praeses
+cwt: Commentator for written text
+edm: Editor of moving image work
+pup: Publication place
+pte: Plaintiff-appellee
+dto: Dedicator
+arc: Architect
+msd: Musical director
+rst: Respondent-appellant
+rpt: Reporter
+sht: Supporting host
+ard: Artistic director
+sce: Scenarist
+pat: Patron
+elt: Electrotyper
+dft: Defendant-appellant
+aft: Author of afterword, colophon, etc.
+vdg: Videographer
+lse: Licensee
+cst: Costume designer
+dst: Distributor
+ivr: Interviewer
+con: Conservator
+crt: Court reporter
+rdd: Radio director
+rth: Research team head
+cph: Copyright holder
+lbt: Librettist
+dln: Delineator
+pop: Printer of plates
+ato: Autographer
+wpr: Writer of preface
+drm: Draftsman
+dnc: Dancer
+fac: Facsimilist
+itr: Instrumentalist
+hst: Host
+prd: Production personnel
+osp: Onscreen presenter
+ins: Inscriber
+red: Redaktor
+ctb: Contributor
+pdr: Project director
+evp: Event place
+bkp: Book producer
+aqt: Author in quotations or text abstracts
+stg: Setting
+cou: Court governed
+wac: Writer of added commentary
+spy: Second party
+scr: Scribe
+ive: Interviewee
+scl: Sculptor
+col: Collector
+ths: Thesis advisor
+aus: Screenwriter
+ctg: Cartographer
+rce: Recording engineer
+dgs: Degree supervisor

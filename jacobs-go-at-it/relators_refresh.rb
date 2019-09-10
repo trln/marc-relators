@@ -1,3 +1,5 @@
+## requires ruby 2.5 or above for .transform_keys method
+
 # import libraries
 require 'rdf'
 require 'linkeddata'
@@ -95,6 +97,14 @@ relator_categories_override.each do |relator_term, relator_category|
   categories_matched[relator_term] = relator_category
 end
 
+## lowercase loc_codes keys and values; sort alphabetically
+loc_codes = loc_codes.sort_by { |key| key }.to_h
+loc_codes = loc_codes.transform_keys(&:downcase).transform_values(&:downcase)
+
+## lowercase categories_matched keys and value; sort alphabetically
+categories_matched = categories_matched.sort_by { |key| key }.to_h
+categories_matched = categories_matched.transform_keys(&:downcase).transform_values(&:downcase)
+
 ####
 # create new yaml files
 
@@ -104,6 +114,8 @@ File.rename("relator_code_to_term.yaml", "relator_code_to_term_backup.yaml")
 ##create backup of relator_categories.yaml
 File.rename("relator_categories.yaml", "relator_categories_backup.yaml")
 
+## load updated data into relator_code_to_term.yaml
 File.open("relator_code_to_term.yaml", 'w') { |f| YAML.dump(loc_codes, f) }
 
+## load updated data into relator_categories.yaml
 File.open("relator_categories.yaml", 'w') { |f| YAML.dump(categories_matched, f) }
